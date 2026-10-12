@@ -301,23 +301,7 @@ Com o **GitHub Student Developer Pack**, é possível registrar grátis por 1 an
 
 ---
 
-## 🎥 Demonstração
 
-### 🌐 Aplicação Web
-
-| Início (tema claro) | Início (tema escuro) |
-|---|---|
-| ![Início claro](./docs/screenshots/inicio-claro.png) | ![Início escuro](./docs/screenshots/inicio-escuro.png) |
-
-| Globo de habilidades | Linha do tempo de projetos |
-|---|---|
-| ![Globo](./docs/screenshots/habilidades-globo.png) | ![Projetos](./docs/screenshots/projetos-timeline.png) |
-
-| Experiências | Contato | Mobile |
-|---|---|---|
-| ![Experiências](./docs/screenshots/experiencias.png) | ![Contato](./docs/screenshots/contato.png) | ![Mobile](./docs/screenshots/mobile.png) |
-
----
 
 ## 🧪 Testes
 
