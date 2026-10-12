@@ -1,0 +1,90 @@
+// Projetos em ordem cronológica (do mais antigo ao mais recente).
+// Para trocar a imagem por um GIF do projeto rodando, coloque o arquivo em /public/projects
+// e altere o campo "image" (ex.: '/projects/sigac.gif').
+export const projects = [
+  {
+    id: 'hotel-c',
+    name: 'Hotel-c',
+    date: '2024-06',
+    period: '2024',
+    team: false,
+    techs: ['C'],
+    repo: 'https://github.com/Manoelrbn/Hotel-c',
+    image: '/projects/hotel-c.svg',
+    description: {
+      pt: 'Projeto final em C: sistema de console para gerenciar um hotel, com cadastros e reservas. Exercitou structs, modularização e manipulação de arquivos.',
+      en: 'Final project in C: a console system to manage a hotel, with registrations and bookings. Practised structs, modular code and file handling.',
+    },
+  },
+  {
+    id: 'potencial-senior',
+    name: 'Potencial Sênior',
+    date: '2024-11',
+    period: '2024',
+    team: true,
+    techs: ['HTML', 'CSS', 'JavaScript'],
+    repo: 'https://github.com/Manoelrbn/PotencialSenior',
+    image: '/projects/potencial-senior.svg',
+    description: {
+      pt: 'Site que ajuda pessoas com 50 anos ou mais a encontrar oportunidades de emprego e a se adaptar às novas tecnologias do mercado, valorizando a experiência desses profissionais.',
+      en: 'Website that helps people aged 50+ find job opportunities and adapt to new workplace technologies, valuing their professional experience.',
+    },
+  },
+  {
+    id: 'treinamento-java',
+    name: 'Treinamento Java',
+    date: '2025-04',
+    period: '2025',
+    team: false,
+    techs: ['Java'],
+    repo: 'https://github.com/Manoelrbn/Treinamento-Java',
+    image: '/projects/treinamento-java.svg',
+    description: {
+      pt: 'Coleção de práticas em Java organizadas por enunciado, cobrindo lógica, orientação a objetos e estruturas de dados.',
+      en: 'A set of Java exercises organised by assignment, covering logic, object-oriented programming and data structures.',
+    },
+  },
+  {
+    id: 'puc-lib',
+    name: 'PUC-Lib',
+    date: '2025-06',
+    period: '2025',
+    team: true,
+    techs: ['JavaScript', 'HTML', 'CSS'],
+    repo: 'https://github.com/Manoelrbn/PUC-Lib',
+    image: '/projects/puc-lib.svg',
+    description: {
+      pt: 'Aplicação web de biblioteca acadêmica para consultar o acervo e organizar empréstimos de livros.',
+      en: 'Academic library web app to browse the catalogue and organise book loans.',
+    },
+  },
+  {
+    id: 'sigac',
+    name: 'SIGAC',
+    date: '2026-06',
+    period: '2026',
+    team: true,
+    techs: ['Java', 'Spring Boot', 'Next.js', 'TypeScript', 'JWT'],
+    repo: 'https://github.com/Manoelrbn/Sigac',
+    demo: 'https://sigac-beta.vercel.app/',
+    image: '/projects/sigac.svg',
+    description: {
+      pt: 'Sistema Integrado de Gestão e Administração Condominial. Centraliza condomínios, prestadores de serviço, alocação de pessoal e gastos, com dashboard financeiro, login com JWT e envio de e-mails.',
+      en: 'Integrated condominium management system. Brings together condominiums, service providers, staff allocation and expenses, with a financial dashboard, JWT login and email notifications.',
+    },
+  },
+  {
+    id: 'vera',
+    name: 'VERA',
+    date: '2026-07',
+    period: '2026',
+    team: true,
+    techs: ['React', 'TypeScript', 'Node.js', 'Python', 'FastAPI', 'PostgreSQL'],
+    repo: 'https://github.com/Manoelrbn/VERA',
+    image: '/projects/vera.svg',
+    description: {
+      pt: 'Plataforma que usa inteligência artificial para analisar editais de concursos: extrai o texto do PDF, gera resumo, datas importantes, checklist de requisitos e 10 questões com correção automática.',
+      en: 'AI platform for analysing public-exam notices: it extracts the PDF text and generates a summary, key dates, a requirements checklist and 10 practice questions with automatic grading.',
+    },
+  },
+]
