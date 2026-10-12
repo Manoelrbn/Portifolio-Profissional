@@ -24,7 +24,7 @@ export const projects = [
     team: true,
     techs: ['HTML', 'CSS', 'JavaScript'],
     repo: 'https://github.com/Manoelrbn/PotencialSenior',
-    image: '/projects/potencial-senior.svg',
+    image: '/projects/potencial.jpeg',
     description: {
       pt: 'Site que ajuda pessoas com 50 anos ou mais a encontrar oportunidades de emprego e a se adaptar às novas tecnologias do mercado, valorizando a experiência desses profissionais.',
       en: 'Website that helps people aged 50+ find job opportunities and adapt to new workplace technologies, valuing their professional experience.',
@@ -52,7 +52,7 @@ export const projects = [
     team: true,
     techs: ['JavaScript', 'HTML', 'CSS'],
     repo: 'https://github.com/Manoelrbn/PUC-Lib',
-    image: '/projects/puc-lib.svg',
+    image: '/projects/lib.jpeg',
     description: {
       pt: 'Aplicação web de biblioteca acadêmica para consultar o acervo e organizar empréstimos de livros.',
       en: 'Academic library web app to browse the catalogue and organise book loans.',
@@ -67,7 +67,7 @@ export const projects = [
     techs: ['Java', 'Spring Boot', 'Next.js', 'TypeScript', 'JWT'],
     repo: 'https://github.com/Manoelrbn/Sigac',
     demo: 'https://sigac-beta.vercel.app/',
-    image: '/projects/sigac.svg',
+    image: '/projects/sigac.jpeg',
     description: {
       pt: 'Sistema Integrado de Gestão e Administração Condominial. Centraliza condomínios, prestadores de serviço, alocação de pessoal e gastos, com dashboard financeiro, login com JWT e envio de e-mails.',
       en: 'Integrated condominium management system. Brings together condominiums, service providers, staff allocation and expenses, with a financial dashboard, JWT login and email notifications.',
@@ -81,7 +81,7 @@ export const projects = [
     team: true,
     techs: ['React', 'TypeScript', 'Node.js', 'Python', 'FastAPI', 'PostgreSQL'],
     repo: 'https://github.com/Manoelrbn/VERA',
-    image: '/projects/vera.svg',
+    image: '/projects/vera.jpeg',
     description: {
       pt: 'Plataforma que usa inteligência artificial para analisar editais de concursos: extrai o texto do PDF, gera resumo, datas importantes, checklist de requisitos e 10 questões com correção automática.',
       en: 'AI platform for analysing public-exam notices: it extracts the PDF text and generates a summary, key dates, a requirements checklist and 10 practice questions with automatic grading.',
