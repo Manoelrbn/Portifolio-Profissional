@@ -63,7 +63,7 @@
 ---
 
 ## 🔗 Links Úteis
-* 🌐 **Site publicado:** [Acesse o portfólio](https://SEU-PROJETO.vercel.app) <!-- TODO: substituir pelo link da Vercel após o deploy -->
+* 🌐 **Site publicado:** [Acesse o portfólio](https://manoel-neto.vercel.app) <!-- TODO: substituir pelo link da Vercel após o deploy -->
   > 💻 **Descrição:** Versão de produção hospedada gratuitamente na Vercel.
 * 🎨 **Protótipo no Figma:** [Wireframes de média fidelidade](https://www.figma.com/) <!-- TODO: colar o link do seu arquivo do Figma -->
 * :octocat: **Repositório:** [github.com/Manoelrbn/Portifolio-Profissional](https://github.com/Manoelrbn/Portifolio-Profissional)
@@ -156,7 +156,7 @@ flowchart LR
 
 ## 📖 Como Usar o Site
 
-1. Acesse o [site publicado](https://SEU-PROJETO.vercel.app). <!-- TODO: link da Vercel -->
+1. Acesse o [site publicado](https://manoel-neto.vercel.app). <!-- TODO: link da Vercel -->
 2. Use o **menu do topo** para ir até *Sobre mim*, *Habilidades*, *Projetos*, *Experiências* ou *Contato*. No celular, toque no ícone ☰.
 3. Clique em **EN/PT** para trocar o idioma e no ícone 🌙/☀️ para alternar entre tema escuro e claro. As escolhas ficam salvas.
 4. No **terminal do topo**, clique e digite um comando, como `ajuda`, `projetos`, `contato`, `cv`, `tema` ou `idioma`, e aperte **Enter**. As setas ↑/↓ mostram os comandos anteriores.
