@@ -65,7 +65,7 @@
 ## 🔗 Links Úteis
 * 🌐 **Site publicado:** [Acesse o portfólio](https://manoel-neto.vercel.app) <!-- TODO: substituir pelo link da Vercel após o deploy -->
   > 💻 **Descrição:** Versão de produção hospedada gratuitamente na Vercel.
-* 🎨 **Protótipo no Figma:** [Wireframes de média fidelidade](https://www.figma.com/) <!-- TODO: colar o link do seu arquivo do Figma -->
+* 🎨 **Protótipo no Figma:** [Wireframes de média fidelidade](https://www.figma.com/design/u5Yj2kR8aTBwNi8baaMu9m/Untitled?node-id=0-1&t=U2mAgt4wpjNEEVm5-1) 
 * :octocat: **Repositório:** [github.com/Manoelrbn/Portifolio-Profissional](https://github.com/Manoelrbn/Portifolio-Profissional)
 
 ---
@@ -170,12 +170,19 @@ flowchart LR
 
 Wireframes de média fidelidade das telas (desktop e mobile):
 
-<!-- TODO: exporte os frames do Figma como PNG para docs/wireframes/ e ajuste os nomes abaixo -->
-| Início / Sobre mim | Projetos | Contato |
-|---|---|---|
-| ![Wireframe início](./docs/wireframes/inicio.png) | ![Wireframe projetos](./docs/wireframes/projetos.png) | ![Wireframe contato](./docs/wireframes/contato.png) |
+| Início e Sobre mim | Habilidades |
+|---|---|
+| ![Wireframe início](./docs/wireframes/inicio.png) | ![Wireframe habilidades](./docs/wireframes/habilidades.png) |
 
-🔗 Link do Figma: <https://www.figma.com/> <!-- TODO -->
+| Projetos | Experiências |
+|---|---|
+| ![Wireframe projetos](./docs/wireframes/projetos.png) | ![Wireframe experiências](./docs/wireframes/experiencias.png) |
+
+| Contato | Mobile |
+|---|---|
+| ![Wireframe contato](./docs/wireframes/contato.png) | ![Wireframe mobile](./docs/wireframes/mobile.png) |
+
+🔗 Link do Figma: <https://www.figma.com/design/u5Yj2kR8aTBwNi8baaMu9m/Untitled?node-id=0-1&t=U2mAgt4wpjNEEVm5-1> <!-- TODO -->
 
 ---
 
